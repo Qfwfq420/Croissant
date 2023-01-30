@@ -1,0 +1,27 @@
+body {
+  background-color: #113f67;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  font-size: 50px;
+  color: #e7eaf6;
+}
+
+a {
+  color: #e7eaf6;
+}
+a:hover {
+  color: #a2a8d3;
+}
+a:visited {
+  color: aquamarine;
+}
+img {
+  border: #38598b;
+  border-radius: 20px;
+}
+p {
+  color: #e7eaf6;
+  font-size: 30px;
+}
